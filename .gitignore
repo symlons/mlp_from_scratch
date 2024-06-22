@@ -1,0 +1,8 @@
+nonSorted
+.ipynb_checkpoints
+weights/*
+!weights/.gitkeep
+.DS_Store
+.*.swp
+.*.swo
+*.pyc
